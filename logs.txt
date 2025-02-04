@@ -1,0 +1,1 @@
+[['cf_0', 0], ['patrick_1', 1], ['exirly_2', 0], ['steel_3', 0], ['windvayne_4', 0], ['rads_5', 0], ['bunnypls_6', 0], ['Fastnitro_7', 0], ['fearfulwalker_8', 0], ['surgeian_9', 0], ['gloseph_10', 0], ['tenshi_11', 0]]
